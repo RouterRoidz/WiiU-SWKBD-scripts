@@ -10,3 +10,7 @@ Don't expect a ton of things here. I'll make them when I want to make them.
 You will need Python 2 or higher to use these scripts since they rely on you having a pyGecko setup. If you're using any TXT codes here, using JGecko U with the latest TCPGecko should work fine.
 
 Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
+
+
+
+Keep in mind most of these scripts/codes will be intented for EUR versions of games/applets. I don't have access to a USA or JPN console. However, if you somehow port these scripts to different regions, and you would like them uploaded, hit me up (Randm#5310) and I'll add them here!
