@@ -13,4 +13,4 @@ Using the latest version of TCPGecko will NOT work for system appliets (Friends 
 
 
 
-Keep in mind most of these scripts/codes will be intented for EUR versions of games/applets. I don't have access to a USA or JPN console. However, if you somehow port these scripts to different regions, and you would like them uploaded, hit me up (Randm#5310) and I'll add them here!
+Keep in mind most of these scripts/codes will be intented for EUR/PAL versions of games/applets. I don't have access to a USA/NTSC-U or JPN/NTSC-J console. However, if you somehow port these scripts to different regions, and you would like them uploaded, hit me up (Randm#5310) and I'll add them here!
