@@ -11,7 +11,7 @@ You will need Python 2 or higher to use these scripts since they rely on you hav
 
 Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
 
-Mii Maker also will not work due to the nature of homebrew on Wii U.
+Mii Maker also will not work with the latest TCPGecko due to the nature of homebrew on Wii U.
 
 
 
