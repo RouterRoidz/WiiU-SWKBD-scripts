@@ -8,6 +8,7 @@ If you want to use some of these files (the ones made for the Applets and the Mi
 Don't expect a ton of things here. I'll make them when I want to make them.
 
 You will need Python 2 or higher to use these scripts since they rely on you having a pyGecko setup. If you're using any TXT codes here, using JGecko U with the latest TCPGecko should work fine.
+Put these scripts in the pyGecko folder and run with `python (script).py`
 
 Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
 
