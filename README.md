@@ -1,6 +1,5 @@
 # WiiU-SWKBD-scripts
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
-SWKBD codes I make here will also be in TXT form if the game or app supports loading/running it with JGecko U.
 
 These scripts are made for editing keys on the Wii U software keyboard, otherwise known as SWKBD.
 If you want to use some of these files (the ones made for the Applets and the Mii Maker), you'll need to use the older version of TCPGecko (the one on Loadiine.ovh) which involves downgrading browser files to run 5.5.1 exploits.
