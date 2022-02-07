@@ -6,7 +6,9 @@ If you want to use some of these files (the ones made for the Applets and the Mi
 
 Don't expect a ton of things here. I'll make them when I want to make them.
 
-You will need Python 2 or higher to use these scripts since they rely on you having a pyGecko setup. Put these scripts in the pyGecko folder and run with `python (script).py` (or just double click the script if you're on Windows). Make sure to change the IP address at the top of the script to that of your console's IP address.
+You will need Python 2 or higher to use these scripts since they rely on you having a pyGecko setup. Put these scripts in the pyGecko folder and run with `python (script).py` (or just double click the script if you're on Windows). 
+
+Make sure to change the IP address at the top of the script to that of your console's IP address.
 
 Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
 
