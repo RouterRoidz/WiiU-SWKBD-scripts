@@ -66,4 +66,4 @@ KB4 = Wide QWERTY keyboard and special unicode characters
 
 KB5 and KB6 = Japanese Hiragana and Katakana.
 
-Have fun! Suggestions for adding characters and whatnot are welcome!
+Have fun! Feel free to suggest what characters should be added!
