@@ -34,7 +34,7 @@ A: Make sure the IP address at the top of the script is set to that of your cons
 
 Q: I get an error that says `No module named 'tcpgecko'`!
 
-A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the scripts are
+A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the scripts.
 
 =
 
