@@ -53,3 +53,11 @@ A: There is a bug with the script, please contact me on Discord `Randm#5310` or 
 Q: I've edited the script to have different keys, and the console now freezes when I send it!
 
 A: Revert the changes you made. If this happens with unmodified scripts, contact me ASAP.
+
+=
+
+=
+
+What's what?
+
+KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
