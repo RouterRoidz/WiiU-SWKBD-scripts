@@ -32,6 +32,12 @@ A: Make sure the IP address at the top of the script is set to that of your cons
 
 =
 
+Q: A folder named `__pycache__` was created! Should I be worried?
+
+A: No, that's a folder Python creates. Don't worry about it.
+
+=
+
 Q: I get an error that says `No module named 'tcpgecko'`!
 
 A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the scripts.
