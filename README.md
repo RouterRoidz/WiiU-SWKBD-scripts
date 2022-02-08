@@ -28,7 +28,7 @@ FAQ:
 
 Q: When I run the script, it doesn't connect to my console, and the script closes!
 
-A: Make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU
+A: Make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU. Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
 
 =
 
@@ -40,7 +40,7 @@ A: No, that's a folder Python creates. Don't worry about it.
 
 Q: I get an error that says `No module named 'tcpgecko'`!
 
-A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the scripts.
+A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the script(s).
 
 =
 
