@@ -46,7 +46,9 @@ A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` fil
 
 Q: The script connects and sends, but the keyboard doesn't change!
 
-A: There is a bug with the script, please contact me on Discord `Randm#5310` or create an Issue here.
+A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or re-open the keyboard. If it still doesn't change, there is a bug with the script. 
+
+Please contact me on Discord `Randm#5310` or create an Issue here. 
 
 =
 
