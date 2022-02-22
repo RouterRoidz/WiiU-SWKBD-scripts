@@ -1,6 +1,6 @@
 # WiiU-SWKBD-scripts
 This method is considered obsolete in favor of Ro's Wii U custom keybord which works everywhere and is permanent. Updated Video link is [here](https://www.youtube.com/watch?v=DtZPjN-st8o), however it imposes a brick risk if installed the wrong way.
-Scripts will continue to be created here for those who prefer this method.
+Scripts will continue to be created here for those who prefer this method, which is safer for the non tech-savvy.
 ===========================
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
 
