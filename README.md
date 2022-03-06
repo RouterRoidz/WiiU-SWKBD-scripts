@@ -9,7 +9,7 @@ If you want to use some of these files (the ones made for the Applets and the Mi
 
 Don't expect a ton of things here. I'll make them when I want to make them.
 
-You will need Python 2 or higher to use these scripts. A copy of pyGecko is included in each folder. 
+You will need Python 2 or higher to use these scripts, however Python 3 or above is recommended. A copy of pyGecko is included in each folder. 
 
 Run with `python (script).py` (or just double click the script if you're on Windows). 
 
