@@ -72,3 +72,7 @@ KB4 = Wide QWERTY keyboard and special unicode characters
 KB5 and KB6 = Japanese Hiragana and Katakana.
 
 Have fun! Feel free to suggest what characters should be added!
+
+# DISCLAIMER
+Even though these are considered safe, I am NOT responsible if you mess up your console using these scripts. These scripts are tested before they get uploaded here.
+If you mess up your console or data using these scripts, that's your fault, not mine.
