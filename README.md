@@ -2,6 +2,7 @@
 This method is considered obsolete in favor of Ro's Wii U custom keybord which works everywhere and is permanent. Updated Video link is [here](https://www.youtube.com/watch?v=DtZPjN-st8o), however it imposes a brick risk if installed the wrong way.
 Scripts will continue to be created here for those who prefer this method, which is safer for the non tech-savvy.
 ===========================
+# Description
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
 
 These scripts are made for editing keys on the Wii U software keyboard, otherwise known as SWKBD.
@@ -27,7 +28,7 @@ Keep in mind most of these scripts will be intented for EUR/PAL versions of game
 
 
 
-FAQ:
+# FAQ:
 
 Q: When I run the script, it doesn't connect to my console, and the script closes!
 
@@ -63,7 +64,7 @@ A: Revert the changes you made. If this happens with unmodified scripts, contact
 
 =
 
-What's what?
+# What keys do what
 
 KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
 
