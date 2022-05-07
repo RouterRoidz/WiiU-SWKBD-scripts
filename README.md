@@ -79,8 +79,8 @@ Even though these are considered safe, I am NOT responsible if you mess up your 
 If you mess up your console or data using these scripts, that's your fault, not mine.
 
 # CREDITS
-**NWPlayer123** for making the pyGecko library
+- **NWPlayer123** for making the pyGecko library
+- **Chadderz and Marionumber1** for making the TCPGecko codehandler
+- **Tyre3** for helping me find USA addresses for many of the USA versions here
 
-**Chadderz and Marionumber1** for making the TCPGecko codehandler
-
-**Tyre3** for helping me find USA addresses for many of the USA versions here
+###### psst! hey! these scripts are customizable to your liking! feel free to change stuff around! :)
