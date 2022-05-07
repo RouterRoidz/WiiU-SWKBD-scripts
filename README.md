@@ -1,9 +1,8 @@
 # WiiU-SWKBD-scripts
-This method is considered obsolete in favor of Ro's Wii U custom keybord which works everywhere and is permanent. Updated Video link is [here](https://www.youtube.com/watch?v=DtZPjN-st8o), however it imposes a brick risk if installed the wrong way.
-Scripts will continue to be created here for those who prefer this method, which is safer for the non tech-savvy.
+## This method is considered obsolete in favor of Ro's Wii U custom keybord which works everywhere and is permanent. Updated Video link is [here](https://www.youtube.com/watch?v=DtZPjN-st8o), however it imposes a brick risk if installed the wrong way. Scripts will continue to be created here for those who prefer this method, which is safer (does not involve editing critical system files)
 
-If you do prefer to use Ro's custom keyboard, Tiramisu is a MUST since you'll need to autoboot Mocha CFW
-===========================
+### If you prefer to use Ro's Permament custom keyboard, Tiramisu or CBHC (Coldboot Haxchi) is a MUST since you'll need to Autoboot Mocha CFW. If you install Ro's custom keyboard without either of those, you'll BRICK!
+
 # Description
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
 
@@ -12,15 +11,16 @@ If you want to use some of these files (the ones made for the Applets and the Mi
 
 Don't expect a ton of things here. I'll make them when I want to make them.
 
+# What you'll need
 You will need Python 2 or higher to use these scripts, however Python 3 or above is recommended. A copy of pyGecko is included in each folder. 
 
 Run with `python (script).py` (or just double click the script if you're on Windows). 
 
 Make sure to change the IP address at the top of the script to that of your console's IP address.
 
-Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
-
-Mii Maker also will not work with the latest TCPGecko due to the nature of homebrew on Wii U.
+# A few things to keep in mind
+- Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
+- Mii Maker also will not work with the latest TCPGecko due to the nature of homebrew on Wii U.
 
 
 
@@ -32,39 +32,27 @@ Keep in mind most of these scripts will be intented for EUR/PAL versions of game
 
 # FAQ:
 
-Q: When I run the script, it doesn't connect to my console, and the script closes!
+### Q: When I run the script, it doesn't connect to my console, and the script closes!
 
 A: Make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU. Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
 
-=
-
-Q: A folder named `__pycache__` was created! Should I be worried?
+### Q: A folder named `__pycache__` was created! Should I be worried?
 
 A: No, that's a folder Python creates. Don't worry about it.
 
-=
-
-Q: I get an error that says `No module named 'tcpgecko'`!
+### Q: I get an error that says `No module named 'tcpgecko'`!
 
 A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files are in the same folder as the script(s).
 
-=
+### Q: The script connects and sends, but the keyboard doesn't change!
 
-Q: The script connects and sends, but the keyboard doesn't change!
-
-A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or re-open the keyboard. If it still doesn't change, there is a bug with the script. 
+A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If it still doesn't change, there is a bug with the script. 
 
 Please contact me on Discord `Randm#5310` or create an Issue here if that's the case.
 
-=
-
-Q: I've edited the script to have different keys, and the console now freezes when I send it!
+### Q: I've edited the script to have different keys, and the console now freezes when I send it!
 
 A: Revert the changes you made. If this happens with unmodified scripts, contact me ASAP.
-
-=
-
-=
 
 # What keys do what
 
