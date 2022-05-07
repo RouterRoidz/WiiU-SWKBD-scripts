@@ -83,4 +83,4 @@ If you mess up your console or data using these scripts, that's your fault, not 
 - **Chadderz and Marionumber1** for making the TCPGecko codehandler
 - **Tyre3** for helping me find USA addresses for many of the USA versions here
 
-###### psst! hey! these scripts are customizable to your liking! feel free to change stuff around! :)
+###### psst! hey! these scripts are customizable to your liking! feel free to change stuff around! try not to burn the place down though.
