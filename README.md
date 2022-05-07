@@ -77,3 +77,9 @@ Have fun! Feel free to suggest what characters should be added!
 # DISCLAIMER
 Even though these are considered safe, I am NOT responsible if you mess up your console using these scripts. These scripts are tested before they get uploaded here.
 If you mess up your console or data using these scripts, that's your fault, not mine.
+
+# CREDITS
+**NWPlayer123** for making the pyGecko library
+**Chadderz and Marionumber1** for making the TCPGecko codehandler
+**Tyre3** for helping me find USA addresses for many of the USA versions here
+**Nintendo** for making the Wii U support a shitton of Unicode characters
