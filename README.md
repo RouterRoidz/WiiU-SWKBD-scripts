@@ -34,7 +34,7 @@ Keep in mind most of these scripts will be intented for EUR/PAL versions of game
 
 ### Q: When I run the script, it doesn't connect to my console, and the script closes!
 
-A: Make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU. Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
+A: If the script shows `Connecting to SOME.IPA.DDR.ESS:7331` and closes after a few seconds, make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU. Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
 
 ### Q: A folder named `__pycache__` was created! Should I be worried?
 
