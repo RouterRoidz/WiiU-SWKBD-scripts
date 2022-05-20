@@ -21,7 +21,7 @@ Don't expect a ton of things here. I'll make them when I want to make them.
 - Make sure to change the IP address at the top of the script to that of your console's IP address.
 
 # A few things to keep in mind
-- If you want to use these scripts with Mii Maker, Friends List or Miiverse, you need to modify the browser files to run exploits made for FW 5.5.1, otherwise ignore this. [Guide](https://gbatemp.net/threads/5-5-2-browser-with-5-5-1-vulnerability-cfw-required.480468/)
+- If you want to use these scripts with Mii Maker, Friends List or Miiverse, you need to modify the browser files to run exploits made for FW 5.5.1. [Guide](https://gbatemp.net/threads/5-5-2-browser-with-5-5-1-vulnerability-cfw-required.480468/). If you're using these scripts on *anything* else, this isn't required.
 - Most of these scripts will be intented for EUR/PAL versions of games/applets. USA and Japanese versions will come later.
 
 
