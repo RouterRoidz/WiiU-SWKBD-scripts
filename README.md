@@ -12,19 +12,17 @@ If you want to use some of these files (the ones made for the Applets and the Mi
 Don't expect a ton of things here. I'll make them when I want to make them.
 
 # What you'll need
-You will need Python 2 or higher to use these scripts, however Python 3 or above is recommended. A copy of pyGecko is included in each folder. 
+- Python 2 or higher, Python 3 or above is recommended. A copy of pyGecko is included in each folder. 
+- Any way of homebrew access on your console
+- TCPGecko on your Wii U's SD Card
 
-Run with `python (script).py` (or just double click the script if you're on Windows). 
-
-Make sure to change the IP address at the top of the script to that of your console's IP address.
+# Usage Instructions
+- Run with `python (script).py` (or just double click the script if you're on Windows). 
+- Make sure to change the IP address at the top of the script to that of your console's IP address.
 
 # A few things to keep in mind
-- Using the latest version of TCPGecko will NOT work for system appliets (Friends List, Miiverse, etc...)
-- Mii Maker also will not work with the latest TCPGecko due to the nature of homebrew on Wii U.
-
-
-
-Keep in mind most of these scripts will be intented for EUR/PAL versions of games/applets. I don't have access to a USA/NTSC-U or JPN/NTSC-J console. However, if you somehow port these scripts to different regions, and you would like them uploaded, hit me up (Randm#5310 on Discord or create an Issue here) and I'll add them here!
+- If you want to use these scripts with Mii Maker, Friends List or Miiverse, you need to modify the browser files to run exploits made for FW 5.5.1, otherwise ignore this. [Guide](https://gbatemp.net/threads/5-5-2-browser-with-5-5-1-vulnerability-cfw-required.480468/)
+- Most of these scripts will be intented for EUR/PAL versions of games/applets. USA and Japanese versions will come later.
 
 
 
