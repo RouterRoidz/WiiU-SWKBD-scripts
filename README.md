@@ -44,7 +44,7 @@ A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` fil
 
 ### Q: The script connects and sends, but the keyboard doesn't change!
 
-A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If it still doesn't change, there is a bug with the script. 
+A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If your console is in a language other then English, try changing the keyboard to use the English keyboard (ENG option). If it still doesn't change, there is a bug with the script. 
 
 Please contact me on Discord `Randm#5310` or create an Issue here if that's the case.
 
@@ -54,13 +54,11 @@ A: Revert the changes you made. If this happens with unmodified scripts, contact
 
 # What keys do what
 
-KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
+- KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
+- KB4 = Wide QWERTY keyboard and special unicode characters
+- KB5 and KB6 = Japanese Hiragana and Katakana.
 
-KB4 = Wide QWERTY keyboard and special unicode characters
-
-KB5 and KB6 = Japanese Hiragana and Katakana.
-
-Have fun! Feel free to suggest what characters should be added!
+Have fun!
 
 # DISCLAIMER
 Even though these are considered safe, I am NOT responsible if you mess up your console using these scripts. These scripts are tested before they get uploaded here.
