@@ -3,6 +3,9 @@
 
 ### If you prefer to use Ro's Permament custom keyboard, Tiramisu or CBHC (Coldboot Haxchi) is a MUST since you'll need to Autoboot Mocha CFW. If you install Ro's custom keyboard without either of those, you'll BRICK!
 
+# 
+### Loadiine.ovh is down. If you want to use these scripts on Friends List, Miiverse or Mii Maker, use this site on your Wii U - https://55xhax.ml/
+
 # Description
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
 
