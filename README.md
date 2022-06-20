@@ -26,7 +26,7 @@ Don't expect a ton of things here. I'll make them when I want to make them.
 # A few things to keep in mind
 - If you want to use these scripts with Mii Maker, Friends List or Miiverse, you need to modify the browser files to run exploits made for FW 5.5.1. [Guide](https://gbatemp.net/threads/5-5-2-browser-with-5-5-1-vulnerability-cfw-required.480468/). If you're using these scripts on *anything* else, this isn't required.
 - Most of these scripts will be intented for EUR/PAL versions of games/applets. USA and Japanese versions will come later.
-
+- If you plan to use these scripts on **Minecraft: Wii U Edition**, please [use this code](https://raw.githubusercontent.com/RandomUser-101/WiiU-SWKBD-scripts/main/Minecraft%3A%20Wii%20U%20Edition%20(EUR)/MC%20Unlock%20Symbols%20code.txt) on JGecko U or [this pyGecko script](https://raw.githubusercontent.com/RandomUser-101/WiiU-SWKBD-scripts/main/Minecraft%3A%20Wii%20U%20Edition%20(EUR)/MC_UnlockSymbols.py) to make hacked characters load properly on signs. Nintendo hacked characters will not work but things like the wide-width characters and some unicode will.
 
 
 
