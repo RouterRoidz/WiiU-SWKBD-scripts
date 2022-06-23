@@ -55,6 +55,9 @@ Please contact me on Discord `Randm#5310` or create an Issue here if that's the 
 
 A: Revert the changes you made. If this happens with unmodified scripts, contact me ASAP.
 
+### Q: My console froze when running the exploits on 55xhax.ml!
+
+A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again
 # What keys do what
 
 - KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
