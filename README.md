@@ -7,10 +7,7 @@
 ### Loadiine.ovh is down. If you want to use these scripts on Friends List, Miiverse or Mii Maker, use this site on your Wii U - https://55xhax.ml/
 
 # Description
-My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD).
-
-These scripts are made for editing keys on the Wii U software keyboard, otherwise known as SWKBD.
-If you want to use some of these files (the ones made for the Applets and the Mii Maker), you'll need to use the older version of TCPGecko (the one on Loadiine.ovh) which involves downgrading browser files to run 5.5.1 exploits.
+My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD), because nobody else did it yet, despite the Wii U being hackable for years.
 
 Don't expect a ton of things here. I'll make them when I want to make them.
 
@@ -47,7 +44,7 @@ A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` fil
 
 ### Q: The script connects and sends, but the keyboard doesn't change!
 
-A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If your console is in a language other then English, try changing the keyboard to use the English keyboard (ENG option). If it still doesn't change, there is a bug with the script. 
+A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If your console is in a language other then English, try changing the keyboard to use the English keyboard (ENG option). If you haven't opened the keyboard yet, do that, then send your script. If it still doesn't change, there is a bug with the script.
 
 Please contact me on Discord `Randm#5310` or create an Issue here if that's the case.
 
