@@ -32,7 +32,7 @@ Don't expect a ton of things here. I'll make them when I want to make them.
 
 ### Q: When I run the script, it doesn't connect to my console, and the script closes!
 
-A: If the script shows `Connecting to SOME.IPA.DDR.ESS:7331` and closes after a few seconds, make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU. Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
+A: If the script shows `Connecting to SOME.IPA.DDR.ESS:7331` and closes after a few seconds, make sure the IP address at the top of the script is set to that of your console's IP. You can get your IP address through programs like FTPiiU (Wii U) or Selfishnet (Windows). Also make sure you have the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` files in the same folder as the script(s).
 
 ### Q: A folder named `__pycache__` was created! Should I be worried?
 
@@ -54,7 +54,7 @@ A: Revert the changes you made. If this happens with unmodified scripts, contact
 
 ### Q: My console froze when running the exploits on 55xhax.ml!
 
-A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again
+A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again, or alternatively, [clone this repository](https://github.com/RandomUser-101/55xhax) and host the files locally yourself using software like Apache2, nginx or HFS.
 # What keys do what
 
 - KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
