@@ -55,6 +55,21 @@ A: Revert the changes you made. If this happens with unmodified scripts, contact
 ### Q: My console froze when running the exploits on 55xhax.ml!
 
 A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again, or alternatively, [clone this repository](https://github.com/RandomUser-101/55xhax) and host the files locally yourself using software like Apache2, nginx or HFS.
+
+### Q: I replaced the `mvplayer.rpl` file in the browser but it freezes when I try to run TCPGecko!
+
+A: You most likely provided the wrong Title ID on JNUSTool. For refference, the title IDs for the browser are listed below:
+
+##### JPN: 000500301001200A
+##### USA: 000500301001210A
+##### EUR: 000500301001220A
+
+Make sure you provide the correct Title ID when downloading the MVplayer file.
+
+### Q: I get an error message (no freeze) on the browser when trying to run any of the exploits!
+
+A: The replaced `mvplayer.rpl` file was reverted back to the system default. Replace the file via FTP and try again
+
 # What keys do what
 
 - KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
