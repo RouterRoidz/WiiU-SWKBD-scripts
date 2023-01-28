@@ -1,7 +1,8 @@
 # WiiU-SWKBD-scripts
 ## This method is considered obsolete in favor of Ro's Wii U custom keybord which works everywhere and is permanent. Updated Video link is [here](https://www.youtube.com/watch?v=DtZPjN-st8o), however it imposes a brick risk if installed the wrong way. Scripts will continue to be created here for those who prefer this method, which is safer (does not involve editing critical system files)
 
-### If you prefer to use Ro's Permament custom keyboard, Tiramisu or CBHC (Coldboot Haxchi) is a MUST since you'll need to Autoboot CFW for the file to work. If you install Ro's custom keyboard without either of those, you'll BRICK!
+### If you prefer to use Ro's Permament custom keyboard, Coldbootable CFW (CBHC, Tiramisu or Aroma) is a MUST since you'll need to run Sigpatches on boot time for it to work properly.
+**INSTALLING RO'S CUSTOM KEYBOARD WITHOUT COLDBOOT CFW WILL BRICK YOUR CONSOLE!**
 
 # 
 ### Loadiine.ovh is down. If you want to use these scripts on Friends List, Miiverse or Mii Maker, use this site on your Wii U - https://55xhax.ml/
@@ -13,7 +14,7 @@ Don't expect a ton of things here. I'll make them when I want to make them.
 
 # What you'll need
 - Python 2 or higher, Python 3 or above is recommended. A copy of pyGecko is included in each folder. 
-- Any way of homebrew access on your console
+- Any way of homebrew access on your console. Any CFW is a must if you're using these on applets. Coldboot CFW is highly recommended.
 - TCPGecko on your Wii U's SD Card
 
 # Usage Instructions
@@ -58,7 +59,9 @@ A: If you have a slow or unstable internet connection, your console has a chance
 
 ### Q: I replaced the `mvplayer.rpl` file in the browser but it freezes when I try to run TCPGecko!
 
-A: You most likely provided the wrong Title ID on JNUSTool. For refference, the title IDs for the browser are listed below:
+A: Like other exploits that use the browser, it can freeze the console at times. If this happens, just restart your Wii U and try again.
+
+If this keeps occuring, you most likely provided the wrong Title ID on JNUSTool. For refference, the title IDs for the browser are listed below:
 
 ##### JPN: 000500301001200A
 ##### USA: 000500301001210A
@@ -66,10 +69,21 @@ A: You most likely provided the wrong Title ID on JNUSTool. For refference, the 
 
 Make sure you provide the correct Title ID when downloading the MVplayer file.
 
+If it still happens, despite replacing the proper region file, RIP.
+
 ### Q: I get an error message (no freeze) on the browser when trying to run any of the exploits!
 
 A: The replaced `mvplayer.rpl` file was reverted back to the system default. Replace the file via FTP and try again
 
+### Q: What does this work on?
+
+A: This has been tested on all homebrew methods and all of them work, which currently include Haxchi, CBHC, Tiramisu and Aroma
+
+### Q: Ro's custom keyboard freezes my console, despite me having CFW! (Tiramisu or Aroma)
+
+A: Make sure you have the sigpatches module in the appropriate folder. If you don't have this, the console will freeze.
+
+If you installed it without any CFW, congratulations dumbass, you've bricked.
 # What keys do what
 
 - KB1 thru KB3 = Hacked symbols and special unicode characters. 0009 is included in KB3 here (the key with the red rectangle on it) ![0009](https://user-images.githubusercontent.com/54253840/152971588-25d92cfc-56fe-4942-98c2-2c874b365f1c.png)
