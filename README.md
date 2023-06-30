@@ -47,7 +47,7 @@ A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` fil
 
 A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If your console is in a language other then English, try changing the keyboard to use the English keyboard (ENG option). If you haven't opened the keyboard yet, do that, then send your script. If it still doesn't change, there is a bug with the script.
 
-Please contact me on Discord `Randm#5310` or create an Issue here if that's the case.
+Please contact me on Discord `@randomuser_101` or create an Issue here if that's the case.
 
 ### Q: I've edited the script to have different keys, and the console now freezes when I send it!
 
@@ -73,7 +73,9 @@ If it still happens, despite replacing the proper region file, RIP.
 
 ### Q: I get an error message (no freeze) on the browser when trying to run any of the exploits!
 
-A: The replaced `mvplayer.rpl` file was reverted back to the system default. Replace the file via FTP and try again
+A: The replaced `mvplayer.rpl` file was reverted back to the system default. Replace the file via FTP and try again.
+
+Something you can try: Once you replace the file, turn off and unplug the console for a few seconds, then plug it back in.
 
 ### Q: What does this work on?
 
