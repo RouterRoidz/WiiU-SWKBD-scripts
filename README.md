@@ -47,7 +47,7 @@ A: Make sure the `common.py`, `common.pyc`, `tcpgecko.py` and `tcpgecko.pyc` fil
 
 A: If you sent the script when the keyboard was open, press the Caps Lock key on the keyboard (the a↷A key) or close and open the keyboard. If your console is in a language other then English, try changing the keyboard to use the English keyboard (ENG option). If you haven't opened the keyboard yet, do that, then send your script. If it still doesn't change, there is a bug with the script.
 
-Please contact me on Discord `@randomuser_101` or create an Issue here if that's the case.
+Please contact me on Discord `@routerroidz` or create an Issue here if that's the case.
 
 ### Q: I've edited the script to have different keys, and the console now freezes when I send it!
 
@@ -55,7 +55,7 @@ A: Revert the changes you made. If this happens with unmodified scripts, contact
 
 ### Q: My console froze when running the exploits on 55xhax.ml!
 
-A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again, or alternatively, [clone this repository](https://github.com/RandomUser-101/55xhax) and host the files locally yourself using software like Apache2, nginx or HFS.
+A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again, or alternatively, [clone this repository](https://github.com/RouterRoidz/55xhax) and host the files locally yourself using software like Apache2, nginx or HFS.
 
 ### Q: I replaced the `mvplayer.rpl` file in the browser but it freezes when I try to run TCPGecko!
 
