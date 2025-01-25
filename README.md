@@ -78,7 +78,8 @@ Something you can try: Once you replace the file, turn off and unplug the consol
 
 ### Q: What does this work on?
 
-A: This has been tested on all homebrew methods and all of them work, which currently include Haxchi, CBHC, Tiramisu and Aroma
+A: This has been tested on all homebrew methods and all of them work, which currently include Haxchi, CBHC, Tiramisu and Aroma.
+### Aroma is horrendously unstable with this, and is not recommended.
 
 ### Q: Ro's custom keyboard freezes my console, despite me having CFW! (Tiramisu or Aroma)
 
