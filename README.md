@@ -5,7 +5,6 @@
 **INSTALLING RO'S CUSTOM KEYBOARD WITHOUT COLDBOOT CFW WILL BRICK YOUR CONSOLE!**
 
 # 
-### Loadiine.ovh is down. If you want to use these scripts on Friends List, Miiverse or Mii Maker, use this site on your Wii U - https://55xhax.ml/
 
 # Description
 My pyGecko scripts made for interfacing with the Wii U's Software Keyboard (SWKBD), because nobody else did it yet, despite the Wii U being hackable for years.
@@ -53,7 +52,7 @@ Please contact me on Discord `@routerroidz` or create an Issue here if that's th
 
 A: Revert the changes you made. If this happens with unmodified scripts, contact me ASAP.
 
-### Q: My console froze when running the exploits on 55xhax.ml!
+### Q: My console froze when running the exploits!
 
 A: If you have a slow or unstable internet connection, your console has a chance to freeze. Make sure your internet connection is fast enough and stable and try again, or alternatively, [clone this repository](https://github.com/RouterRoidz/55xhax) and host the files locally yourself using software like Apache2, nginx or HFS.
 
